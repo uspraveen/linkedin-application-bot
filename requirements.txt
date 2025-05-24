@@ -1,0 +1,30 @@
+fastapi
+uvicorn
+python-multipart
+pymupdf
+openai
+python-dotenv
+pandas
+openpyxl
+playwright
+pytesseract
+pillow
+# Core dependencies
+browser-use>=0.1.0
+langchain-openai>=0.1.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+playwright>=1.40.0
+
+# Logging and utilities
+colorama>=0.4.6
+rich>=13.0.0
+
+# Data handling
+pandas>=2.0.0
+openpyxl>=3.1.0
+
+# Additional dependencies for robust operation
+asyncio-throttle>=1.0.0
+aiofiles>=23.0.0
+tenacity>=8.0.0
