@@ -2,6 +2,14 @@
 
 An intelligent, production-ready automation bot that applies to LinkedIn Easy Apply jobs with advanced security, logging, and error handling.
 
+
+## 📽 Watch it in Work:
+
+[![Watch the demo](https://img.youtube.com/vi/ITDgc9iQodI/0.jpg)](https://www.youtube.com/watch?v=ITDgc9iQodI)
+
+
+
+
 ## 🌟 Features
 
 ### 🔐 **Security & Safety**
