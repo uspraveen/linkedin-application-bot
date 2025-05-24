@@ -1,4 +1,4 @@
-# 🤖 LinkedIn Easy Apply Bot v2.0
+# 🤖 LinkedIn Easy Apply Agent v2.0
 
 An intelligent, production-ready automation bot that applies to LinkedIn Easy Apply jobs with advanced security, logging, and error handling.
 
